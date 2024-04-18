@@ -1,0 +1,10 @@
+# ignore the Retrosheet play-by-play files, the model data files, and the simulation data files
+data/
+eve_files/
+sim_results/
+
+#ignore setup notes
+*.txt
+
+# ignore the cache files
+__pycache__/
